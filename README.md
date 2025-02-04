@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/de8161b0-48bf-4469-947c-dfc0e8804a2e)- 👋 Hi, I’m @sujeet-iiitm
+👋 Hi, I’m @sujeet-iiitm
 - 👀 I’m interested in Web-Development(specially stylling/animations)
 - 🌱 I’m currently shifting to react-js.
 - 🏫 I'm currently learing Back-End.
